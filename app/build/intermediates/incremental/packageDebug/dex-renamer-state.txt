@@ -1,0 +1,7 @@
+#Sun Jul 23 16:34:44 AEST 2017
+base.0=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment4\\Task4.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2c13f4d062fac1e34f0a63ca6096f0698d5d196
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment4\\Task4.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3499c179e465fbc16cf08f07f86e0810bf7b68c\\classes.dex
+base.1=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment4\\Task4.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3499c179e465fbc16cf08f07f86e0810bf7b68c
+file.0=C\:\\Users\\sandhu\\Documents\\sdma\\assignment\\Assignment4\\Task4.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2c13f4d062fac1e34f0a63ca6096f0698d5d196\\classes.dex
