@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e2247df1e4380b517155722ad86d23a352f6642">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3499c179e465fbc16cf08f07f86e0810bf7b68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="49f706094a57245da3f25e3c667e5eb1bfe72797">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a2c13f4d062fac1e34f0a63ca6096f0698d5d196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c4994727b7059446823f2d261e89ca693d8b9bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e9e43ae3dc3842a28cf72dfe7cd69eb553bc15db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7a88b88b0f270f574735be695e2225fc16b2fbb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5ed76d602cd0bca3cbeabee616372916c5401a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1728297fcb19f70892c8dfe7918bb7d7b196d9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\sandhu\Documents\sdma\assignment\Assignment4\Task4.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fce8fd49368ec50c068dd6a8e03138b81c9bca69\classes.dex" />
+    </item>
+
+</items>
